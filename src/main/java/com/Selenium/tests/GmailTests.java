@@ -6,7 +6,7 @@ import com.Selenium.steps.Steps;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class LoginTest {
+public class GmailTests {
 
     private Steps steps;
     private final String USERNAME = "olesov198@gmail.com";
